@@ -1,7 +1,7 @@
 # Hi, I'm Arthur! 👋
 
 <p align="center">
-<img src="https://github.com/arthur-thuy/arthur-thuy/assets/57416568/99d85fed-793a-48b1-bd0c-3807803465e3" height="200">
+<img src="https://github.com/arthur-thuy/arthur-thuy/assets/57416568/3424044a-a9b2-4259-9449-a814e1982c31" width="1000">
 </p>
 
 ## About Me 🚀
