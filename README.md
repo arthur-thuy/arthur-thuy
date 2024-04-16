@@ -1,5 +1,9 @@
 # Hi, I'm Arthur! 👋
 
+<p align="center">
+<img src="https://github.com/arthur-thuy/arthur-thuy/assets/57416568/99d85fed-793a-48b1-bd0c-3807803465e3" height="200">
+</p>
+
 ## About Me 🚀
 
 I am a PhD researcher at the Data Analytics cluster of the Faculty of Economics at Ghent University. I am a PhD fellow at the [Research Foundation - Flanders (FWO)](https://www.fwo.be/en/the-fwo/profile/) and I am also affiliated to the [CVAMO Flanders Make Lab](https://ugent-cvamo.github.io/).
